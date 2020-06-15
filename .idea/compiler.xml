@@ -94,6 +94,8 @@
       <module name="Problems-Point2D_test" target="1.8" />
       <module name="Problems-Printing_each_word_in_a_new_line_main" target="1.8" />
       <module name="Problems-Printing_each_word_in_a_new_line_test" target="1.8" />
+      <module name="Problems-Printing_only_the_longest_line_main" target="1.8" />
+      <module name="Problems-Printing_only_the_longest_line_test" target="1.8" />
       <module name="Problems-Pseudo-constructor_main" target="1.8" />
       <module name="Problems-Pseudo-constructor_test" target="1.8" />
       <module name="Problems-Read_and_print_main" target="1.8" />
@@ -112,12 +114,16 @@
       <module name="Problems-Swap_test" target="1.8" />
       <module name="Problems-The_eternal_truth_main" target="1.8" />
       <module name="Problems-The_eternal_truth_test" target="1.8" />
+      <module name="Problems-The_forgotten_comments_main" target="1.8" />
+      <module name="Problems-The_forgotten_comments_test" target="1.8" />
       <module name="Problems-The_information_about_a_person_main" target="1.8" />
       <module name="Problems-The_information_about_a_person_test" target="1.8" />
       <module name="Problems-The_length_of_the_sequence_main" target="1.8" />
       <module name="Problems-The_length_of_the_sequence_test" target="1.8" />
       <module name="Problems-The_max_of_two_numbers_without_else-branch_main" target="1.8" />
       <module name="Problems-The_max_of_two_numbers_without_else-branch_test" target="1.8" />
+      <module name="Problems-Uncomment_a_line_main" target="1.8" />
+      <module name="Problems-Uncomment_a_line_test" target="1.8" />
       <module name="Problems-val_or_var__main" target="1.8" />
       <module name="Problems-val_or_var__test" target="1.8" />
       <module name="Problems-Volume_of_a_cube_main" target="1.8" />

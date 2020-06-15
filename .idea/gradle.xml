@@ -58,6 +58,7 @@
             <option value="$PROJECT_DIR$/Problems/Patient needs a doctor" />
             <option value="$PROJECT_DIR$/Problems/Point2D" />
             <option value="$PROJECT_DIR$/Problems/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Problems/Printing only the longest line" />
             <option value="$PROJECT_DIR$/Problems/Pseudo-constructor" />
             <option value="$PROJECT_DIR$/Problems/Read and print" />
             <option value="$PROJECT_DIR$/Problems/Reddit" />
@@ -67,9 +68,11 @@
             <option value="$PROJECT_DIR$/Problems/Strings as objects" />
             <option value="$PROJECT_DIR$/Problems/Swap" />
             <option value="$PROJECT_DIR$/Problems/The eternal truth" />
+            <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
             <option value="$PROJECT_DIR$/Problems/The information about a person" />
             <option value="$PROJECT_DIR$/Problems/The length of the sequence" />
             <option value="$PROJECT_DIR$/Problems/The max of two numbers without else-branch" />
+            <option value="$PROJECT_DIR$/Problems/Uncomment a line" />
             <option value="$PROJECT_DIR$/Problems/Volume of a cube" />
             <option value="$PROJECT_DIR$/Problems/We need to learn Kotlin" />
             <option value="$PROJECT_DIR$/Problems/Weather comparison" />
