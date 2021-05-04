@@ -1,5 +1,5 @@
 # Hyperskill-Coffee-Machine-Kotlin
-A simple coffe machine, made at Hyperskill
+A simple coffe machine
 
 # Output examples
 ```example1
